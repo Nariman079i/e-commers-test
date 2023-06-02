@@ -8,5 +8,5 @@ services:
     volumes:
       - .:/project
     ports:
-      - 8007:8000
+      - 8008:8000
 
